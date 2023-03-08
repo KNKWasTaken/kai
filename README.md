@@ -1,4 +1,4 @@
-# kai
+# KAI
 Artificial Intelligence by KNKWasTaken, stands for KNK Artificial Intelligence
 ---
 
@@ -30,4 +30,10 @@ openai.api_key = api_key
 2. OpenAI Account
 3. OpenAI API Key
 
-## Use It to increase artificial intelligence
+# Features
+- The AI can remember what conversation happened by reading the `chathistory.txt` file
+- The memory of AI can be cleared by deleting the contents of `chathistory.txt`. **Don't delete the file itself**
+- Uses Davinci Engine, the most powerfull free text generating AI engine created by OpenAI
+- Can exit the program using "E" or "e"
+
+## Use It to increase the limits of artificial intelligence
