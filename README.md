@@ -20,5 +20,14 @@ then you need to go to documents > quickstart and scroll down to secret api key 
 you need to replace the `yourapikey` in line  with your actual api key
 
 ```py
-api
+api_key = "yourapikey"
+openai.api_key = api_key
 ```
+
+---
+# Requirments:-
+1. OpenAI Module
+2. OpenAI Account
+3. OpenAI API Key
+
+## Use It to increase artificial intelligence
